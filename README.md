@@ -1,6 +1,6 @@
 # Smart Bulb
 
-### IoT Project for Monsoon 2022 Semester
+This was a project created by Team IoT Moment for the course Introduction to IoT Monsoon 2022. 
 
 * This project makes uses IoT to make a Smart Bulb that uses a power saving model that switches the bulb off when there is no person in the room and dims it by the amount of light in the room.
 * Components used - 
